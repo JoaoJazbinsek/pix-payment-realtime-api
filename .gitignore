@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+instance/
+*.db
+.env
+venv/
+.venv/
+static/img/qr_code_payment_*.png
