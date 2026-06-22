@@ -6,3 +6,5 @@ instance/
 venv/
 .venv/
 static/img/qr_code_payment_*.png
+.venv/
+.pytest_cache/
